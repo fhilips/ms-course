@@ -13,5 +13,5 @@ public class HrApiGatewayZuulApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HrApiGatewayZuulApplication.class, args);
 	}
-
+	
 }
