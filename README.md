@@ -1,13 +1,13 @@
 # Microserviços com Spring Boot e Spring Cloud
 
 Este projeto teve como objetivo desenvolver um exemplo prático de uma arquitetura baseada em microserviços.
-O projeto consiste no acesso de um usúario a rotas de acordo com seu nível de permissionamento. As rotas consistem em acesso a informações dos trabalhadadores, cálculo de pagamento, encontrar usuários e acesso as configurações dos microserviços.
+O projeto consiste no acesso de um usúario a rotas, de acordo com seu nível de permissionamento. As rotas consistem em acesso a informações dos trabalhadadores, cálculo de pagamento, encontrar usuários e configurações dos microserviços.
 
 ### Divisão do projeto
 
 ---
 
-O projeto está dividido nas Branchs main e docker. Este último com as configurações para prod e dev, e criação dos containers docker.
+O projeto está dividido nas Branchs main e docker. Esta última, com as configurações para prod e dev e criação dos containers docker.
 
 ## 📝 Fases do projeto
 
