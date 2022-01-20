@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="hr-api-gateway-zuul/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hr-api-gateway-zuul/src/main/java"/>
+	<classpathentry kind="src" path="hr-api-gateway-zuul/src/test/java"/>
+	<classpathentry kind="src" path="hr-config-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hr-config-server/src/main/java"/>
+	<classpathentry kind="src" path="hr-config-server/src/test/java"/>
+	<classpathentry kind="src" path="hr-eureka-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hr-eureka-server/src/main/java"/>
+	<classpathentry kind="src" path="hr-eureka-server/src/test/java"/>
+	<classpathentry kind="src" path="hr-oauth/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hr-oauth/src/main/java"/>
+	<classpathentry kind="src" path="hr-oauth/src/test/java"/>
+	<classpathentry kind="src" path="hr-payroll/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hr-payroll/src/main/java"/>
+	<classpathentry kind="src" path="hr-payroll/src/test/java"/>
+	<classpathentry kind="src" path="hr-user/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hr-user/src/main/java"/>
+	<classpathentry kind="src" path="hr-user/src/test/java"/>
+	<classpathentry kind="src" path="hr-worker/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hr-worker/src/main/java"/>
+	<classpathentry kind="src" path="hr-worker/src/test/java"/>
+	<classpathentry kind="lib" path="hr-api-gateway-zuul/target/hr-api-gateway-zuul-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="hr-config-server/target/hr-config-server-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="hr-eureka-server/target/hr-eureka-server-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="hr-oauth/target/hr-oauth-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="hr-payroll/target/hr-payroll-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="hr-user/target/hr-user-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="hr-worker/target/hr-worker-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="hr-api-gateway-zuul/target/classes"/>
+</classpath>
